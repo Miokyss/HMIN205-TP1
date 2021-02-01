@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">TP1</string>
+    <string name="surname">Prénom</string>
+    <string name="skills">Domaine de compétence</string>
+    <string name="age">Age</string>
+    <string name="phone">Numéro de Téléphone</string>
+    <string name="validate_button">Valider</string>
+    <string name="name">Nom</string>
+</resources>
