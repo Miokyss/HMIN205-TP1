@@ -6,4 +6,6 @@
     <string name="phone">Numéro de Téléphone</string>
     <string name="validate_button">Valider</string>
     <string name="name">Nom</string>
+    <string name="xml" translatable="false">"xml code : "</string>
+    <string name="java" translatable="false">Java code:</string>
 </resources>

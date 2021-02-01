@@ -6,6 +6,7 @@ import android.text.InputType;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import java.text.NumberFormat;
 
@@ -17,6 +18,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         LinearLayout mainLayout = findViewById(R.id.mainLayout);
+
+        TextView code = new TextView(this);
+        code.setText(R.string.java);
+        code.setEms(20);
+        mainLayout.addView(code);
 
         EditText name = new EditText(this);
         name.setHint(R.string.name);
