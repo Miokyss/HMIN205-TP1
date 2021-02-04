@@ -9,13 +9,6 @@
         android:orientation="vertical" >
 
         <TextView
-           android:id="@+id/xmlTextView"
-           android:layout_width="wrap_content"
-           android:layout_height="wrap_content"
-           android:ems="20"
-           android:text="@string/xml" />
-
-        <TextView
             android:id="@+id/nameTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -73,9 +66,10 @@
             android:hint="+33 6 22 72 69 58"/>
 
        <Button
+           android:id="@+id/validateButton"
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
-           android:text="@string/validate_button"/>
+           android:text="@string/validate"/>
 
     </LinearLayout>
 </ScrollView>

@@ -5,5 +5,12 @@
     <string name="skills">Domain skills</string>
     <string name="age">Age</string>
     <string name="phone">Phone Number</string>
-    <string name="validate_button">Confirm</string>
+    <string name="validate">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="defaut">text</string>
+    <string name="welcome">Given information :</string>
+    <string name="call">Call</string>
+    <string name="permission">We need permission to call</string>
+    <string name="complete">Complete all to confirm</string>
+    <string name="back">Back</string>
 </resources>
